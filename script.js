@@ -1,3 +1,7 @@
+br = (q) => {console.log('='.repeat(25));
+    console.log('QUESTION ' + q);
+}
+
 // QUESTION 1a
 br('1a');
 const JPDinos = ['Velociraptors', 'Tyrannosaurus Rex', 'Dilophosaurus'];
